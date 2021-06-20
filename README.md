@@ -10,10 +10,15 @@ Non - Negative Matrix Factorization (NMF) splits the document-word matrix (tfidf
 
 ## Requirements
 re 2.2.1
+
 nltk 3.2.5
+
 np 1.19.5
+
 sklearn 0.22.2.post1
+
 wikipedia
+
 punkt (nltk.download('punkt')
 
 ## Running the project

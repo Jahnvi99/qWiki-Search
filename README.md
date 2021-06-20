@@ -8,6 +8,10 @@ We find relevant wikipedia pages about the topic entered by the user. Next, sent
 
 Non - Negative Matrix Factorization (NMF) splits the document-word matrix (tfidf) into document-topic matrix (W) and topic-word matrix(H). Sentences giving highest score are then extracted from W and latest sentences are shown in chronological order.
 
+## Non negative matrix factorization
+
+![Screenshot](NMF.png)
+
 ## Requirements
 re 2.2.1
 
